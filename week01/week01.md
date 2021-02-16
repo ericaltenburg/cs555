@@ -7,15 +7,25 @@
 
 #. What will you be doing?
 	- Weekly readings/quizzes/homework/projects/social media discussions
+
+## Week 1 Readings
+
+### \quad Boehm 2002 — Agile Methods
+
+- Traditional:
+	- extensive planning, codified processes, rigorous reuse to make dev an efficient and predictable activity
+- New Generation:
+	- Cites corporate bureaucracy, rapid pace of information technology change, and dehumanizing effects of detailed plan-driven development for change in development
+	- Wants to get rid of everything that isn't essential
+- Keeping up with change is necessary but overdoing the change isn't good either
+- Maybe a combined approach?
+- \textbf{The planning spectrum}
+	- Agile methods place more value on planning process than the resulting documentation
 	- 
 
-### \quad TODO
 
-- text enis about rent to see how it'll be split
-- New math study plan and email professor bonelli about the switching class and if I need to resubmit my AC
-- Look at 554 stuff
-- Look at spotify
-	- for the jobs you can talk about their agile implementation (found it in class)
+CS-424: Weekly Deliverable 12 (Sunday)
+MA-346: HW1 Feb 16 (Tuesday)
+CS-555: Project 1 and Quiz 1 Feb 17 (Wednesday)
+CS-554: Lab 1 Feb 18 (Thursday)
 
-
-- Sort weekly one for lecture and one for notes and one for homework?
