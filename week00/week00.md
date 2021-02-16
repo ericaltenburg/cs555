@@ -1,5 +1,5 @@
 # Eric Altenburg \hfill CS-555 \hfill \today
-## Week 1 Lecture 1
+## Week 0 Lecture 1
 
 1. What is this course about?
 	- examines agile methods to understand how rapid realization of software occurs most effectively

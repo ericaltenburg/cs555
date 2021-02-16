@@ -1,5 +1,5 @@
 # Eric Altenburg \hfill CS-555 \hfill \today
-## Week 2
+## Week 1
 
 1. How much planning?
 	- Depends on task's:
